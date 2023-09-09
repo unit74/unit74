@@ -11,7 +11,7 @@
 
 ### 💻 GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=unit74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/unit74/)  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=unit74&show_icons=true&theme=algolia)](https://github.com/unit74/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unit74&layout=compact&theme=algolia)](https://github.com/unit74/)
 
 ### 🧑‍💻 Skills
